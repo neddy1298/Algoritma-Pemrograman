@@ -8,7 +8,7 @@ int main()
 {
     double tot_beli, potongan = 0, jum_bayar = 0;
 
-    cout << "Total Pembelian" << endl;
+    cout << "Total Pembelian ";
     cin >> tot_beli;
 
     if (tot_beli >= 5000)
